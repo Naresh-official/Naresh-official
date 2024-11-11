@@ -21,7 +21,7 @@ I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a ful
 
 ### 🌟 Projects
 
-- **[BookBot](https://github.com/Naresh-official/BookBot):** A SaaS platform combining Cloudinary AI features for document-based AI interactions.
+- **[BookBot](https://github.com/Naresh-official/Book-Bot):** A SaaS platform combining Cloudinary AI features for document-based AI interactions.
 
 ### 📈 Coding Activity
 
