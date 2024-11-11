@@ -1,6 +1,6 @@
 # Hi there, I'm Naresh! 👋
 
-I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a full-stack web developer, and passionate about building impactful applications. I enjoy working with modern technologies like React, Express.js, and Next.js, and I'm currently building a SaaS project called [BookBot](https://github.com/Naresh-official/BookBot) to gather all AI features of Cloudinary in one place.
+I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a full-stack web developer, and passionate about building impactful applications. I enjoy working with modern technologies like React, Express.js, and Next.js, and I'm currently building a SaaS project called [BookBot](https://github.com/Naresh-official/Book-Bot) to gather all AI features of Cloudinary in one place.
 
 ---
 
@@ -30,7 +30,7 @@ I use [WakaTime](https://wakatime.com/) to track my coding activity and focus on
 ### 📫 Connect with Me
 
 - **GitHub:** [Naresh-official](https://github.com/Naresh-official)
-- **LinkedIn:** [Naresh Kumar ](www.linkedin.com/in/naresh-kumar-2a6141335)
+- **LinkedIn:** [Naresh Kumar ](https:///www.linkedin.com/in/naresh-kumar-2a6141335)
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss any interesting projects. Let's build something amazing together!
 
