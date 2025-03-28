@@ -19,10 +19,6 @@ I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a ful
 - **Database:** MongoDB
 - **Other Tools:** Git, Postman, WakaTime
 
-### 🌟 Projects
-
-- **[BookBot](https://github.com/Naresh-official/Book-Bot):** A SaaS platform combining Cloudinary AI features for document-based AI interactions.
-
 ### 📈 Coding Activity
 
 I use [WakaTime](https://wakatime.com/) to track my coding activity and focus on specific projects to maintain productivity.
