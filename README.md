@@ -1,6 +1,6 @@
 # Hi there, I'm Naresh! 👋
 
-I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a full-stack web developer, and passionate about building impactful applications. I enjoy working with modern technologies like React, Express.js, and Next.js, and I'm currently building a SaaS project called [BookBot](https://github.com/Naresh-official/Book-Bot) to gather all AI features of Cloudinary in one place.
+I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a full-stack web developer, and passionate about building impactful applications. I enjoy working with modern technologies like React, Express.js, and Next.js.
 
 ---
 
