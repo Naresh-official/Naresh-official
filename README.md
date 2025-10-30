@@ -1,35 +1,54 @@
-# Hi there, I'm Naresh! 👋
+## 👋 Hi, I'm Naresh!
 
-I'm a second-year Computer Science Engineering (CSE) student in Bangalore, a full-stack web developer, and passionate about building impactful applications. I enjoy working with modern technologies like React, Express.js, and Next.js.
+I'm a **Computer Science Engineering (CSE)** student from **Bangalore**, a **full-stack web developer**, and an enthusiast for building scalable, AI-powered, and impactful web applications.  
+
+I enjoy working with modern technologies, experimenting with architecture patterns like **monorepos**, and exploring how **AI agents** can enhance user experiences.
 
 ---
 
 ### 💻 About Me
 
-- 🌱 I’m currently learning **Redux Toolkit** and **Next.js authentication** with NextAuth.
-- 🎯 My current project is **BookBot**, a platform where users can upload notes or books and chat with an AI for various tasks based on the content.
-- 👨‍💻 I’m working towards becoming a proficient full-stack developer and am interested in building scalable SaaS applications.
-- 🎓 In 2025, I plan to participate in **Google Summer of Code (GSoC)**, hoping to contribute to open-source projects.
-
-### ⚙️ Tech Stack
-
-- **Frontend:** JavaScript, React, Next.js, Redux
-- **Backend:** Node.js, Express.js
-- **Styling:** Tailwind CSS, ShadCN, CSS3
-- **Database:** MongoDB
-- **Other Tools:** Git, Postman, WakaTime
-
-### 📈 Coding Activity
-
-I use [WakaTime](https://wakatime.com/) to track my coding activity and focus on specific projects to maintain productivity.
-
-### 📫 Connect with Me
-
-- **GitHub:** [Naresh-official](https://github.com/Naresh-official)
-- **LinkedIn:** [Naresh Kumar ](https:///www.linkedin.com/in/naresh-kumar-2a6141335)
-
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or discuss any interesting projects. Let's build something amazing together!
+- 🚀 Currently working on **Nova** — an **AI-powered multi-agent email client** built with modern web and AI technologies.  
+- 🌱 Learning **Docker** and diving deep into **AI agent systems**.  
+- 💡 Passionate about creating **scalable SaaS applications** and intelligent systems.  
+- 🎯 Goal for 2025: Land a **software engineering internship** and contribute to real-world projects that make a difference.  
 
 ---
 
-Thanks for visiting my profile, and happy coding! 🚀
+### ⚙️ Tech Stack
+
+**Frontend:** React, Next.js, Redux, JavaScript, TypeScript  
+**Backend:** Node.js, Express.js, tRPC  
+**Database:** Prisma, PostgreSQL, MongoDB  
+**Styling:** Tailwind CSS, ShadCN UI, CSS3  
+**Architecture:** Monorepos (TurboRepo)  
+**Learning:** Docker, AI Agents  
+**Tools & Utilities:** Git, Postman, WakaTime  
+
+---
+
+### 🧠 Current Focus
+
+- 🔹 Building and scaling **Nova** using a **multi-agent AI architecture**  
+- 🔹 Exploring **LangChain** for retrieval-augmented generation and intelligent automation  
+- 🔹 Enhancing deployment and scalability with **Docker**  
+
+---
+
+### 📈 Coding Activity
+
+I track my coding activity with [**WakaTime**](https://wakatime.com/) to stay consistent and data-driven in improving productivity.
+
+---
+
+### 🤝 Connect With Me
+
+- 🧑‍💻 **GitHub:** [Naresh-official](https://github.com/Naresh-official)  
+- 💼 **LinkedIn:** [Naresh Kumar](https://www.linkedin.com/in/naresh-kumar-2a6141335)  
+
+Feel free to explore my repositories — I’m always open to collaboration, internships, and innovative project ideas.  
+Let’s build something amazing together! 🚀  
+
+---
+
+> _“Keep building, keep learning, and let curiosity lead the way.”_
