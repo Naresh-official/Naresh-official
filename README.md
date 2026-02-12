@@ -11,7 +11,7 @@ I enjoy working with modern technologies, experimenting with architecture patter
 - 🚀 Currently working on **Nova** — an **AI-powered multi-agent email client** built with modern web and AI technologies.  
 - 🌱 Learning **Docker** and diving deep into **AI agent systems**.  
 - 💡 Passionate about creating **scalable SaaS applications** and intelligent systems.  
-- 🎯 Goal for 2025: Land a **software engineering internship** and contribute to real-world projects that make a difference.  
+- 🎯 Goal for 2026: Land a **software engineering internship** and contribute to real-world projects that make a difference.  
 
 ---
 
